@@ -159,6 +159,8 @@ header {
   
   .primary-border {
     border-color: #fce138;
+    text-align: center;
+  
   }
   
   .secondary-border {
@@ -313,17 +315,3 @@ header {
 /* REACH OUT STYLES END */
 
 
-/* PRIVACY POLICY STYLES START */
-
-
-
-
-
-
-
-
-
-
-
-
-/* PRIVACY POLICY STYLES END */
